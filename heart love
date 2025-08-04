@@ -1,0 +1,9 @@
+.Heart__Love {
+backgroud: black;
+color: #fff;
+font-family: "iloveyou beb";
+font-size: 3em;
+text-align center;
+scrollbar-width: none;
+opacity: 0;
+}
